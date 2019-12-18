@@ -1,1 +1,1 @@
-# Django-challenges
+# Challenge 1
